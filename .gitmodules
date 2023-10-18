@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/costavale/universe
-	shallow = true
 	branch = HEAD
 [submodule "BlueCarbon"]
 	path = BlueCarbon
 	url = https://github.com/valybionda/BlueCarbon
-	shallow = true
-	registered = true
 [submodule "aomisc"]
 	path = aomisc
 	url = https://github.com/OnofriAndreaPG/aomisc
-	shallow = true
 	registered = false
