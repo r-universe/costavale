@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/costavale/universe
+	url = https://github.com/costavale/costavale.r-universe.dev
 	branch = HEAD
 [submodule "BlueCarbon"]
 	path = BlueCarbon
