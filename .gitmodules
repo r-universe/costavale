@@ -5,7 +5,3 @@
 [submodule "BlueCarbon"]
 	path = BlueCarbon
 	url = https://github.com/valybionda/BlueCarbon
-[submodule "aomisc"]
-	path = aomisc
-	url = https://github.com/OnofriAndreaPG/aomisc
-	registered = false
